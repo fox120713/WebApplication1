@@ -1,0 +1,1134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{391ACF8C-BE70-47D4-886B-79C29CB29291}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bktj.aspx" />
+    <Content Include="bokuan.aspx" />
+    <Content Include="buycar.aspx" />
+    <Content Include="buyhome.aspx" />
+    <Content Include="buyhome_1.aspx" />
+    <Content Include="cftj.aspx" />
+    <Content Include="cg.aspx" />
+    <Content Include="cgimg\tp1.png" />
+    <Content Include="cgimg\tp2.png" />
+    <Content Include="cgimg\tp3.png" />
+    <Content Include="cgimg\tp4.png" />
+    <Content Include="cgimg\tp5.png" />
+    <Content Include="cgimg\捕获.PNG" />
+    <Content Include="cgsq.aspx" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\buttons.css" />
+    <Content Include="css\sample.css" />
+    <Content Include="cwbsg.aspx" />
+    <Content Include="cz.aspx" />
+    <Content Include="cztj.aspx" />
+    <Content Include="dutywatch.aspx" />
+    <Content Include="GeRenXinXi.aspx" />
+    <Content Include="gongaoadd.aspx" />
+    <Content Include="gonggaoxinxi.aspx" />
+    <Content Include="gzcgimg\th.jpg" />
+    <Content Include="img\211铃铛-线性.png" />
+    <Content Include="img\24gl-portraitMaleInfo.png" />
+    <Content Include="img\4.jpg" />
+    <Content Include="img\6.jpg" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\8.jpg" />
+    <Content Include="img\log.png" />
+    <Content Include="img\pexels-expect-best-323705.jpg" />
+    <Content Include="img\R-C.jfif" />
+    <Content Include="img\Telegram.jpg" />
+    <Content Include="img\云端管理 %281%29.png" />
+    <Content Include="img\云端管理.png" />
+    <Content Include="img\didi打卡.png" />
+    <Content Include="img\打卡5.png" />
+    <Content Include="img\暂无银行卡.png" />
+    <Content Include="img\添加2.png" />
+    <Content Include="img\理财.png" />
+    <Content Include="img\生活缴费 %281%29.png" />
+    <Content Include="img\生活缴费.png" />
+    <Content Include="img\用户.png" />
+    <Content Include="img\缺省页_暂无缴费.png" />
+    <Content Include="img\退出.png" />
+    <Content Include="img\钱包.png" />
+    <Content Include="img\随赠品.png" />
+    <Content Include="information.aspx" />
+    <Content Include="jfhztj.aspx" />
+    <Content Include="jflx.aspx" />
+    <Content Include="jftj.aspx" />
+    <Content Include="jfxg.aspx" />
+    <Content Include="jfxq.aspx" />
+    <Content Include="js\jquery-1.11.0.min.js" />
+    <Content Include="js\jquery-3.3.1.min.js" />
+    <Content Include="kqcx.aspx" />
+    <Content Include="login.aspx" />
+    <Content Include="lxtj.aspx" />
+    <Content Include="Notice.aspx" />
+    <Content Include="NoticeShow.aspx" />
+    <Content Include="nullcar.aspx" />
+    <Content Include="nullhome.aspx" />
+    <Content Include="PSHOUye.aspx" />
+    <Content Include="Public_maintenance.aspx" />
+    <Content Include="repairsel.aspx" />
+    <Content Include="report.aspx" />
+    <Content Include="servise\servise1.aspx" />
+    <Content Include="servise\servise2.aspx" />
+    <Content Include="servise\servise3.aspx" />
+    <Content Include="js\starlight.js" />
+    <Content Include="sftj.aspx" />
+    <Content Include="static\css\bootstrap-grid.min.css" />
+    <Content Include="static\css\contentbox.css" />
+    <Content Include="static\css\css2.css" />
+    <Content Include="static\css\elegant-font.css" />
+    <Content Include="static\css\general.css" />
+    <Content Include="static\image\bg-1.png" />
+    <Content Include="tcf.aspx" />
+    <Content Include="userlive.aspx" />
+    <Content Include="User_maintenance.aspx" />
+    <Content Include="User_renovation.aspx" />
+    <Content Include="UsWeiXiuXQ.aspx" />
+    <Content Include="WeiXiuXQ.aspx" />
+    <Content Include="wximg\wc1.jpeg" />
+    <Content Include="wximg\wc2.jpeg" />
+    <Content Include="wximg\wc3.jpeg" />
+    <Content Include="wximg\wc4.jpeg" />
+    <Content Include="wximg\wx1.jpeg" />
+    <Content Include="wximg\wx2.jpeg" />
+    <Content Include="wximg\wx3.jpeg" />
+    <Content Include="wximg\wx4.jpeg" />
+    <Content Include="wximg\wx5.jpeg" />
+    <Content Include="wximg\wx6.jpeg" />
+    <Content Include="xinxifuwu.aspx" />
+    <Content Include="css\muban.css" />
+    <Content Include="css\Style.css" />
+    <Content Include="Web.config" />
+    <Content Include="bp\bootstrap.css" />
+    <Content Include="XiuGaiMiMa.aspx" />
+    <Content Include="ygxiangqing.aspx" />
+    <Content Include="ygzhsel.aspx" />
+    <Content Include="YSqueren.aspx" />
+    <Content Include="yzjfjl.aspx" />
+    <Content Include="yzjfmx.aspx" />
+    <Content Include="zchsr.aspx" />
+    <Content Include="zhibanguanli.aspx" />
+    <Content Include="zhibantianjia.aspx" />
+    <Content Include="zwf.aspx" />
+    <Content Include="zxsh.aspx" />
+    <Content Include="业主\baoxiuCk.aspx" />
+    <Content Include="业主\baoxiuSq.aspx" />
+    <Content Include="业主\ChongZhi.aspx" />
+    <Content Include="业主\ChongZhiXX.aspx" />
+    <Content Include="业主\DopantAll.aspx" />
+    <Content Include="业主\GGweixiuSq.aspx" />
+    <Content Include="业主\JiaoFei.aspx" />
+    <Content Include="业主\jquery-3.3.1.min.js" />
+    <Content Include="业主\muban.css" />
+    <Content Include="业主\ShouYeYeZHu.aspx" />
+    <Content Include="业主\style.css" />
+    <Content Include="业主\userxiangqing.aspx" />
+    <Content Include="业主\UsGenRenXinXi.aspx" />
+    <Content Include="业主\UsXiuGaiMIMa.aspx" />
+    <Content Include="业主\yzjf.aspx" />
+    <Content Include="业主\ZxCk.aspx" />
+    <Content Include="业主\Zxcns.aspx" />
+    <Content Include="业主\ZxSq.aspx" />
+    <Content Include="业主图片\1.jpg" />
+    <Content Include="员工图片\101.png" />
+    <Content Include="员工图片\102.png" />
+    <Content Include="员工图片\103.png" />
+    <Content Include="员工图片\104.png" />
+    <Content Include="员工图片\105.png" />
+    <Content Include="员工图片\106.png" />
+    <Content Include="员工图片\107.png" />
+    <Content Include="员工图片\108.png" />
+    <Content Include="员工图片\109.png" />
+    <Content Include="员工图片\110.png" />
+    <Content Include="员工图片\111.png" />
+    <Content Include="员工图片\112.png" />
+    <Content Include="员工图片\113.png" />
+    <Content Include="员工图片\114.png" />
+    <Content Include="员工图片\115.png" />
+    <Content Include="员工图片\116.png" />
+    <Content Include="员工图片\117.png" />
+    <Content Include="员工图片\118.png" />
+    <Content Include="员工图片\119.png" />
+    <Content Include="员工图片\120.png" />
+    <Content Include="员工图片\121.png" />
+    <Content Include="员工图片\122.png" />
+    <Content Include="员工图片\123.png" />
+    <Content Include="员工图片\124.png" />
+    <Content Include="员工图片\125.png" />
+    <Content Include="员工图片\126.png" />
+    <Content Include="员工图片\127.png" />
+    <Content Include="员工图片\128.png" />
+    <Content Include="员工图片\129.png" />
+    <Content Include="员工图片\130.png" />
+    <Content Include="员工图片\131.png" />
+    <Content Include="员工图片\132.png" />
+    <Content Include="员工图片\133.png" />
+    <Content Include="员工图片\134.png" />
+    <Content Include="员工图片\135.png" />
+    <Content Include="员工图片\136.png" />
+    <Content Include="员工图片\137.png" />
+    <Content Include="员工图片\138.png" />
+    <Content Include="员工图片\139.png" />
+    <Content Include="员工图片\140.png" />
+    <Content Include="员工图片\141.png" />
+    <Content Include="员工图片\142.png" />
+    <Content Include="员工图片\143.png" />
+    <Content Include="员工图片\144.png" />
+    <Content Include="员工图片\145.png" />
+    <Content Include="员工图片\146.png" />
+    <Content Include="员工图片\147.png" />
+    <Content Include="员工图片\148.png" />
+    <Content Include="员工图片\149.png" />
+    <Content Include="员工图片\150.png" />
+    <Content Include="员工图片\151.png" />
+    <Content Include="员工图片\152.png" />
+    <Content Include="员工图片\153.png" />
+    <Content Include="员工图片\154.png" />
+    <Content Include="员工图片\155.png" />
+    <Content Include="员工图片\156.png" />
+    <Content Include="员工图片\157.png" />
+    <Content Include="员工图片\158.png" />
+    <Content Include="员工图片\159.png" />
+    <Content Include="员工图片\160.png" />
+    <Content Include="员工图片\161.png" />
+    <Content Include="员工图片\162.png" />
+    <Content Include="员工图片\201.png" />
+    <Content Include="员工图片\202.png" />
+    <Content Include="员工图片\203.png" />
+    <Content Include="员工图片\204.png" />
+    <Content Include="员工图片\205.png" />
+    <Content Include="员工图片\206.png" />
+    <Content Include="员工图片\207.png" />
+    <Content Include="员工图片\208.png" />
+    <Content Include="员工图片\209.png" />
+    <Content Include="员工图片\210.png" />
+    <Content Include="员工图片\211.png" />
+    <Content Include="员工图片\212.png" />
+    <Content Include="员工图片\213.png" />
+    <Content Include="员工图片\214.png" />
+    <Content Include="员工图片\215.png" />
+    <Content Include="员工图片\216.png" />
+    <Content Include="员工图片\217.png" />
+    <Content Include="员工图片\218.png" />
+    <Content Include="员工图片\219.png" />
+    <Content Include="员工图片\220.png" />
+    <Content Include="员工图片\221.png" />
+    <Content Include="员工图片\222.png" />
+    <Content Include="员工图片\223.png" />
+    <Content Include="员工图片\224.png" />
+    <Content Include="头像\1-3.png" />
+    <Content Include="头像\2-5.png" />
+    <Content Include="头像\3-3.jpg" />
+    <Content Include="头像\3-4.png" />
+    <Content Include="头像\4-3.png" />
+    <Content Include="头像\5-1.png" />
+    <Content Include="头像\5-2.png" />
+    <Content Include="头像\5-3.png" />
+    <Content Include="头像\5-6.png" />
+    <Content Include="头像\6-4.png" />
+    <Content Include="头像\7-4.png" />
+    <Content Include="头像\8-4.png" />
+    <Content Include="头像\9-3.png" />
+    <Content Include="头像\9-4.png" />
+    <Content Include="头像\9-5.png" />
+    <Content Include="管理员\BuMen.aspx" />
+    <Content Include="管理员\BumenTJ.aspx" />
+    <Content Include="管理员\CG.aspx" />
+    <Content Include="管理员\CGSP.aspx" />
+    <Content Include="管理员\GGSP.aspx" />
+    <Content Include="管理员\GGSPXX.aspx" />
+    <Content Include="管理员\GGTj.aspx" />
+    <Content Include="管理员\GG_ShenHe.aspx" />
+    <Content Include="管理员\Glshouye.aspx" />
+    <Content Include="管理员\glyxiangqing.aspx" />
+    <Content Include="管理员\glyzhangh.aspx" />
+    <Content Include="管理员\GongGongWeiXiu.aspx" />
+    <Content Include="管理员\LzSP.aspx" />
+    <Content Include="管理员\LzSPxx.aspx" />
+    <Content Include="管理员\renyuanguanli.aspx" />
+    <Content Include="管理员\reportwatch.aspx" />
+    <Content Include="管理员\ShenHe.aspx" />
+    <Content Include="管理员\StfUpdate.aspx" />
+    <Content Include="管理员\style.css" />
+    <Content Include="管理员\WeiXiuCk.aspx" />
+    <Content Include="管理员\xzysr.aspx" />
+    <Content Include="管理员\YeZhu.aspx" />
+    <Content Include="管理员\YeZhuTJ.aspx" />
+    <Content Include="管理员\YeZhuupdate.aspx" />
+    <Content Include="管理员\YeZhuZX.aspx" />
+    <Content Include="管理员\Ygkq.aspx" />
+    <Content Include="管理员\YgkqXX.aspx" />
+    <Content Include="管理员\YGTJ.aspx" />
+    <Content Include="管理员\YuanGong.aspx" />
+    <Content Include="管理员\zhibanguanli.aspx" />
+    <Content Include="管理员\zhibanshenhe.aspx" />
+    <Content Include="管理员\zhibantianjia.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bktj.aspx.cs">
+      <DependentUpon>bktj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bktj.aspx.designer.cs">
+      <DependentUpon>bktj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bokuan.aspx.cs">
+      <DependentUpon>bokuan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bokuan.aspx.designer.cs">
+      <DependentUpon>bokuan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buycar.aspx.cs">
+      <DependentUpon>buycar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buycar.aspx.designer.cs">
+      <DependentUpon>buycar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyhome.aspx.cs">
+      <DependentUpon>buyhome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyhome.aspx.designer.cs">
+      <DependentUpon>buyhome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyhome_1.aspx.cs">
+      <DependentUpon>buyhome_1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyhome_1.aspx.designer.cs">
+      <DependentUpon>buyhome_1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cftj.aspx.cs">
+      <DependentUpon>cftj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cftj.aspx.designer.cs">
+      <DependentUpon>cftj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cg.aspx.cs">
+      <DependentUpon>cg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cg.aspx.designer.cs">
+      <DependentUpon>cg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cgsq.aspx.cs">
+      <DependentUpon>cgsq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cgsq.aspx.designer.cs">
+      <DependentUpon>cgsq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cwbsg.aspx.cs">
+      <DependentUpon>cwbsg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cwbsg.aspx.designer.cs">
+      <DependentUpon>cwbsg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cz.aspx.cs">
+      <DependentUpon>cz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cz.aspx.designer.cs">
+      <DependentUpon>cz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cztj.aspx.cs">
+      <DependentUpon>cztj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cztj.aspx.designer.cs">
+      <DependentUpon>cztj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dutywatch.aspx.cs">
+      <DependentUpon>dutywatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dutywatch.aspx.designer.cs">
+      <DependentUpon>dutywatch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeRenXinXi.aspx.cs">
+      <DependentUpon>GeRenXinXi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeRenXinXi.aspx.designer.cs">
+      <DependentUpon>GeRenXinXi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gongaoadd.aspx.cs">
+      <DependentUpon>gongaoadd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gongaoadd.aspx.designer.cs">
+      <DependentUpon>gongaoadd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gonggaoxinxi.aspx.cs">
+      <DependentUpon>gonggaoxinxi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gonggaoxinxi.aspx.designer.cs">
+      <DependentUpon>gonggaoxinxi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="information.aspx.cs">
+      <DependentUpon>information.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="information.aspx.designer.cs">
+      <DependentUpon>information.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jfhztj.aspx.cs">
+      <DependentUpon>jfhztj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jfhztj.aspx.designer.cs">
+      <DependentUpon>jfhztj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jflx.aspx.cs">
+      <DependentUpon>jflx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jflx.aspx.designer.cs">
+      <DependentUpon>jflx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jftj.aspx.cs">
+      <DependentUpon>jftj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jftj.aspx.designer.cs">
+      <DependentUpon>jftj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jfxg.aspx.cs">
+      <DependentUpon>jfxg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jfxg.aspx.designer.cs">
+      <DependentUpon>jfxg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jfxq.aspx.cs">
+      <DependentUpon>jfxq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jfxq.aspx.designer.cs">
+      <DependentUpon>jfxq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="kqcx.aspx.cs">
+      <DependentUpon>kqcx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="kqcx.aspx.designer.cs">
+      <DependentUpon>kqcx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="lxtj.aspx.cs">
+      <DependentUpon>lxtj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="lxtj.aspx.designer.cs">
+      <DependentUpon>lxtj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Notice.aspx.cs">
+      <DependentUpon>Notice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Notice.aspx.designer.cs">
+      <DependentUpon>Notice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeShow.aspx.cs">
+      <DependentUpon>NoticeShow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NoticeShow.aspx.designer.cs">
+      <DependentUpon>NoticeShow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nullcar.aspx.cs">
+      <DependentUpon>nullcar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nullcar.aspx.designer.cs">
+      <DependentUpon>nullcar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nullhome.aspx.cs">
+      <DependentUpon>nullhome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nullhome.aspx.designer.cs">
+      <DependentUpon>nullhome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PSHOUye.aspx.cs">
+      <DependentUpon>PSHOUye.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PSHOUye.aspx.designer.cs">
+      <DependentUpon>PSHOUye.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Public_maintenance.aspx.cs">
+      <DependentUpon>Public_maintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Public_maintenance.aspx.designer.cs">
+      <DependentUpon>Public_maintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="repairsel.aspx.cs">
+      <DependentUpon>repairsel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="repairsel.aspx.designer.cs">
+      <DependentUpon>repairsel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="report.aspx.cs">
+      <DependentUpon>report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="report.aspx.designer.cs">
+      <DependentUpon>report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servise\servise1.aspx.cs">
+      <DependentUpon>servise1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servise\servise1.aspx.designer.cs">
+      <DependentUpon>servise1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servise\servise2.aspx.cs">
+      <DependentUpon>servise2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servise\servise2.aspx.designer.cs">
+      <DependentUpon>servise2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servise\servise3.aspx.cs">
+      <DependentUpon>servise3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servise\servise3.aspx.designer.cs">
+      <DependentUpon>servise3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sftj.aspx.cs">
+      <DependentUpon>sftj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sftj.aspx.designer.cs">
+      <DependentUpon>sftj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="tcf.aspx.cs">
+      <DependentUpon>tcf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tcf.aspx.designer.cs">
+      <DependentUpon>tcf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="userlive.aspx.cs">
+      <DependentUpon>userlive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="userlive.aspx.designer.cs">
+      <DependentUpon>userlive.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_maintenance.aspx.cs">
+      <DependentUpon>User_maintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_maintenance.aspx.designer.cs">
+      <DependentUpon>User_maintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_renovation.aspx.cs">
+      <DependentUpon>User_renovation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_renovation.aspx.designer.cs">
+      <DependentUpon>User_renovation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UsWeiXiuXQ.aspx.cs">
+      <DependentUpon>UsWeiXiuXQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UsWeiXiuXQ.aspx.designer.cs">
+      <DependentUpon>UsWeiXiuXQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WeiXiuXQ.aspx.cs">
+      <DependentUpon>WeiXiuXQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WeiXiuXQ.aspx.designer.cs">
+      <DependentUpon>WeiXiuXQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="xinxifuwu.aspx.cs">
+      <DependentUpon>xinxifuwu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="xinxifuwu.aspx.designer.cs">
+      <DependentUpon>xinxifuwu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XiuGaiMiMa.aspx.cs">
+      <DependentUpon>XiuGaiMiMa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XiuGaiMiMa.aspx.designer.cs">
+      <DependentUpon>XiuGaiMiMa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ygxiangqing.aspx.cs">
+      <DependentUpon>ygxiangqing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ygxiangqing.aspx.designer.cs">
+      <DependentUpon>ygxiangqing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ygzhsel.aspx.cs">
+      <DependentUpon>ygzhsel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ygzhsel.aspx.designer.cs">
+      <DependentUpon>ygzhsel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YSqueren.aspx.cs">
+      <DependentUpon>YSqueren.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YSqueren.aspx.designer.cs">
+      <DependentUpon>YSqueren.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="yzjfjl.aspx.cs">
+      <DependentUpon>yzjfjl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="yzjfjl.aspx.designer.cs">
+      <DependentUpon>yzjfjl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="yzjfmx.aspx.cs">
+      <DependentUpon>yzjfmx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="yzjfmx.aspx.designer.cs">
+      <DependentUpon>yzjfmx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="zchsr.aspx.cs">
+      <DependentUpon>zchsr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="zchsr.aspx.designer.cs">
+      <DependentUpon>zchsr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="zhibanguanli.aspx.cs">
+      <DependentUpon>zhibanguanli.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="zhibanguanli.aspx.designer.cs">
+      <DependentUpon>zhibanguanli.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="zhibantianjia.aspx.cs">
+      <DependentUpon>zhibantianjia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="zhibantianjia.aspx.designer.cs">
+      <DependentUpon>zhibantianjia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="zwf.aspx.cs">
+      <DependentUpon>zwf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="zwf.aspx.designer.cs">
+      <DependentUpon>zwf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="zxsh.aspx.cs">
+      <DependentUpon>zxsh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="zxsh.aspx.designer.cs">
+      <DependentUpon>zxsh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\baoxiuCk.aspx.cs">
+      <DependentUpon>baoxiuCk.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\baoxiuCk.aspx.designer.cs">
+      <DependentUpon>baoxiuCk.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\baoxiuSq.aspx.cs">
+      <DependentUpon>baoxiuSq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\baoxiuSq.aspx.designer.cs">
+      <DependentUpon>baoxiuSq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\ChongZhi.aspx.cs">
+      <DependentUpon>ChongZhi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\ChongZhi.aspx.designer.cs">
+      <DependentUpon>ChongZhi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\ChongZhiXX.aspx.cs">
+      <DependentUpon>ChongZhiXX.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\ChongZhiXX.aspx.designer.cs">
+      <DependentUpon>ChongZhiXX.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\DopantAll.aspx.cs">
+      <DependentUpon>DopantAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\DopantAll.aspx.designer.cs">
+      <DependentUpon>DopantAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\GGweixiuSq.aspx.cs">
+      <DependentUpon>GGweixiuSq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\GGweixiuSq.aspx.designer.cs">
+      <DependentUpon>GGweixiuSq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\JiaoFei.aspx.cs">
+      <DependentUpon>JiaoFei.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\JiaoFei.aspx.designer.cs">
+      <DependentUpon>JiaoFei.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\ShouYeYeZHu.aspx.cs">
+      <DependentUpon>ShouYeYeZHu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\ShouYeYeZHu.aspx.designer.cs">
+      <DependentUpon>ShouYeYeZHu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\SiteYezhu.Master.cs">
+      <DependentUpon>SiteYezhu.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\SiteYezhu.Master.designer.cs">
+      <DependentUpon>SiteYezhu.Master</DependentUpon>
+    </Compile>
+    <Compile Include="业主\userxiangqing.aspx.cs">
+      <DependentUpon>userxiangqing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\userxiangqing.aspx.designer.cs">
+      <DependentUpon>userxiangqing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\UsGenRenXinXi.aspx.cs">
+      <DependentUpon>UsGenRenXinXi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\UsGenRenXinXi.aspx.designer.cs">
+      <DependentUpon>UsGenRenXinXi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\UsXiuGaiMIMa.aspx.cs">
+      <DependentUpon>UsXiuGaiMIMa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\UsXiuGaiMIMa.aspx.designer.cs">
+      <DependentUpon>UsXiuGaiMIMa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\yzjf.aspx.cs">
+      <DependentUpon>yzjf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\yzjf.aspx.designer.cs">
+      <DependentUpon>yzjf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\ZxCk.aspx.cs">
+      <DependentUpon>ZxCk.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\ZxCk.aspx.designer.cs">
+      <DependentUpon>ZxCk.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\Zxcns.aspx.cs">
+      <DependentUpon>Zxcns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\Zxcns.aspx.designer.cs">
+      <DependentUpon>Zxcns.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="业主\ZxSq.aspx.cs">
+      <DependentUpon>ZxSq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="业主\ZxSq.aspx.designer.cs">
+      <DependentUpon>ZxSq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\BuMen.aspx.cs">
+      <DependentUpon>BuMen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\BuMen.aspx.designer.cs">
+      <DependentUpon>BuMen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\BumenTJ.aspx.cs">
+      <DependentUpon>BumenTJ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\BumenTJ.aspx.designer.cs">
+      <DependentUpon>BumenTJ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\CG.aspx.cs">
+      <DependentUpon>CG.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\CG.aspx.designer.cs">
+      <DependentUpon>CG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\CGSP.aspx.cs">
+      <DependentUpon>CGSP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\CGSP.aspx.designer.cs">
+      <DependentUpon>CGSP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\GGSP.aspx.cs">
+      <DependentUpon>GGSP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\GGSP.aspx.designer.cs">
+      <DependentUpon>GGSP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\GGSPXX.aspx.cs">
+      <DependentUpon>GGSPXX.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\GGSPXX.aspx.designer.cs">
+      <DependentUpon>GGSPXX.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\GGTj.aspx.cs">
+      <DependentUpon>GGTj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\GGTj.aspx.designer.cs">
+      <DependentUpon>GGTj.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\GG_ShenHe.aspx.cs">
+      <DependentUpon>GG_ShenHe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\GG_ShenHe.aspx.designer.cs">
+      <DependentUpon>GG_ShenHe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\Glshouye.aspx.cs">
+      <DependentUpon>Glshouye.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\Glshouye.aspx.designer.cs">
+      <DependentUpon>Glshouye.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\glyxiangqing.aspx.cs">
+      <DependentUpon>glyxiangqing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\glyxiangqing.aspx.designer.cs">
+      <DependentUpon>glyxiangqing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\glyzhangh.aspx.cs">
+      <DependentUpon>glyzhangh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\glyzhangh.aspx.designer.cs">
+      <DependentUpon>glyzhangh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\GongGongWeiXiu.aspx.cs">
+      <DependentUpon>GongGongWeiXiu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\GongGongWeiXiu.aspx.designer.cs">
+      <DependentUpon>GongGongWeiXiu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\LzSP.aspx.cs">
+      <DependentUpon>LzSP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\LzSP.aspx.designer.cs">
+      <DependentUpon>LzSP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\LzSPxx.aspx.cs">
+      <DependentUpon>LzSPxx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\LzSPxx.aspx.designer.cs">
+      <DependentUpon>LzSPxx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\renyuanguanli.aspx.cs">
+      <DependentUpon>renyuanguanli.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\renyuanguanli.aspx.designer.cs">
+      <DependentUpon>renyuanguanli.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\reportwatch.aspx.cs">
+      <DependentUpon>reportwatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\reportwatch.aspx.designer.cs">
+      <DependentUpon>reportwatch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\ShenHe.aspx.cs">
+      <DependentUpon>ShenHe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\ShenHe.aspx.designer.cs">
+      <DependentUpon>ShenHe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\site.Master.cs">
+      <DependentUpon>site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\site.Master.designer.cs">
+      <DependentUpon>site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\StfUpdate.aspx.cs">
+      <DependentUpon>StfUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\StfUpdate.aspx.designer.cs">
+      <DependentUpon>StfUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\WeiXiuCk.aspx.cs">
+      <DependentUpon>WeiXiuCk.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\WeiXiuCk.aspx.designer.cs">
+      <DependentUpon>WeiXiuCk.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\xzysr.aspx.cs">
+      <DependentUpon>xzysr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\xzysr.aspx.designer.cs">
+      <DependentUpon>xzysr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YeZhu.aspx.cs">
+      <DependentUpon>YeZhu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YeZhu.aspx.designer.cs">
+      <DependentUpon>YeZhu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YeZhuTJ.aspx.cs">
+      <DependentUpon>YeZhuTJ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YeZhuTJ.aspx.designer.cs">
+      <DependentUpon>YeZhuTJ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YeZhuupdate.aspx.cs">
+      <DependentUpon>YeZhuupdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YeZhuupdate.aspx.designer.cs">
+      <DependentUpon>YeZhuupdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YeZhuZX.aspx.cs">
+      <DependentUpon>YeZhuZX.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YeZhuZX.aspx.designer.cs">
+      <DependentUpon>YeZhuZX.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\Ygkq.aspx.cs">
+      <DependentUpon>Ygkq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\Ygkq.aspx.designer.cs">
+      <DependentUpon>Ygkq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YgkqXX.aspx.cs">
+      <DependentUpon>YgkqXX.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YgkqXX.aspx.designer.cs">
+      <DependentUpon>YgkqXX.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YGTJ.aspx.cs">
+      <DependentUpon>YGTJ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YGTJ.aspx.designer.cs">
+      <DependentUpon>YGTJ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\YuanGong.aspx.cs">
+      <DependentUpon>YuanGong.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\YuanGong.aspx.designer.cs">
+      <DependentUpon>YuanGong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\zhibanguanli.aspx.cs">
+      <DependentUpon>zhibanguanli.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\zhibanguanli.aspx.designer.cs">
+      <DependentUpon>zhibanguanli.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\zhibanshenhe.aspx.cs">
+      <DependentUpon>zhibanshenhe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\zhibanshenhe.aspx.designer.cs">
+      <DependentUpon>zhibanshenhe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\zhibantianjia.aspx.cs">
+      <DependentUpon>zhibantianjia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="管理员\zhibantianjia.aspx.designer.cs">
+      <DependentUpon>zhibantianjia.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="static\font\ElegantIcons.eot" />
+    <Content Include="static\font\ElegantIcons.ttf" />
+    <Content Include="static\font\ElegantIcons.woff" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2" />
+    <Content Include="static\font\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2" />
+    <Content Include="static\font\pxiEyp8kv8JHgFVrJJbecmNE.woff2" />
+    <Content Include="static\font\pxiEyp8kv8JHgFVrJJfecg.woff2" />
+    <Content Include="static\font\pxiEyp8kv8JHgFVrJJnecmNE.woff2" />
+    <Content Include="static\font\pxiGyp8kv8JHgFVrLPTucHtA.woff2" />
+    <Content Include="static\font\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2" />
+    <Content Include="static\font\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2" />
+    <Content Include="Site1.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="管理员\site.Master" />
+    <Content Include="业主\SiteYezhu.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{341b2455-1ca1-44d9-98de-fd1c851ed99e}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODEL\MODEL.csproj">
+      <Project>{8a753634-982b-494f-841f-d330ed70db21}</Project>
+      <Name>MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1321/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

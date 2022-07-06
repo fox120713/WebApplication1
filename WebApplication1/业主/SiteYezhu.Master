@@ -1,0 +1,238 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteYezhu.master.cs" Inherits="WebApplication1.业主.SiteYezhu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="muban.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    <link href="../bp/bootstrap.css" rel="stylesheet" />
+    <script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        * {
+            text-decoration: none;
+        }
+
+        .title {
+            color: white;
+        }
+
+        li a {
+            text-decoration: none;
+            color: white;
+        }
+
+            li a:hover {
+                text-decoration: none;
+                color: skyblue;
+            }
+
+        .header {
+            background-color: #3a4c9d;
+        }
+
+        .header-img div {
+            float: right;
+        }
+
+        .header-img {
+            width: 100%;
+            height: 100%;
+            border: 1px solid black;
+        }
+
+        #Image9 {
+            border-radius: 50px;
+            margin-bottom: 20px;
+            margin-right: 20px;
+        }
+
+        #Image4 {
+            float: right;
+            height: 35px;
+            width: 35px;
+            margin-left: 20px;
+            margin-top: 10px;
+            margin-right: 20px;
+            border-radius: 50px;
+        }
+
+        #Image5 {
+            float: left;
+            height: 40px;
+        }
+
+        /*#Image6 {
+            height: 40px;
+            margin-top: 10px;
+            margin-left: 20px;
+            float: right;
+        }*/
+
+        .header-name {
+            float: right;
+            height: 100%;
+            font-size: 10px;
+            line-height: 5px;
+            margin-left: 10px;
+        }
+
+        .dk {
+            float: left;
+            height: 100%;
+            margin-left: 30px;
+            font-size: 20px;
+            /*line-height: 30px;*/
+            color: white;
+            margin-top: 15px;
+        }
+
+        .ys {
+            height: 250px;
+            width: 300px;
+            position: absolute;
+            background-color: #3a4c9d;
+            color: white;
+            right: 0px;
+            top: 65px;
+            display: none;
+            z-index:1;
+
+    
+        }
+
+        #Imagek {
+            margin-left: 1110px;
+            margin-top: 15px;
+            height: 35px;
+            width: 35px;
+        }
+        /*#ImageButtonT {
+            width:200px;
+            height:200px;
+        }*/
+
+        .ys a {
+            text-decoration: none;
+            color: white;
+        }
+
+            .ys a:hover {
+                text-decoration: none;
+                color: skyblue;
+            }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="header">
+            <div class="header-img">
+                <%--点击头像，即可跳转到用户的账号管理页面--%>
+                <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/img/R-C.jfif" Width="5%" Height="100%" />--%>
+                <p class="dk">紫荆物业管理系统</p>
+                <asp:Image ID="Image4" runat="server" ImageUrl="~/img/R-C.jfif" />
+                <%--     <asp:ImageButton ID="Imagek" runat="server"  ImageUrl="~/img/打卡5.png"/>--%>
+
+                <div class="ys">
+                    <table>
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image9" runat="server" ImageUrl="~/img/R-C.jfif" Width="60px" Height="60px" />
+                            </td>
+                            <td>
+                                <asp:Label ID="Label1" runat="server" Text="用户名" ForeColor="White"></asp:Label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image3" runat="server" ImageUrl="~/img/用户.png"  Width ="40px" Height="40px" />
+                            </td>
+                            <td>
+                                  <a  href="userxiangqing.aspx">用户详情</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image5" runat="server" ImageUrl="~/img/24gl-portraitMaleInfo.png" Width="40px" Height="40px" />
+                            </td>
+                            <td>
+                                <a href="userxiangqing.aspx">修改密码</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image2" runat="server" ImageUrl="~/img/退出.png" Width="40px" Height="40px" />
+                            </td>
+                            <td>
+                                  <a href="../login.aspx">退出</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+
+            </div>
+            <asp:ContentPlaceHolder ID="header" runat="server"></asp:ContentPlaceHolder>
+
+        </header>
+        <div class="main">
+            <aside class="menu">
+                               
+                <div class="box">
+                    <div class="box-item">
+                        <p class="title">首页</p>
+                        <ul class="box-item-content">
+                            <li><a href="ShouYeYeZHu.aspx">首页</a></li>
+                        </ul>
+                    </div>
+                    <div class="box-item">
+                        <p class="title">我的缴费</p>
+                        <ul class="box-item-content">
+                            <li><a href="DopantAll.aspx">缴费明细</a></li>
+                        <%--    <li><a href="JiaoFei.aspx">生活缴费</a></li>--%>
+                            <li><a href="ChongZhi.aspx">账户充值</a></li>
+                            <li><a href="ChongZhiXX.aspx">充值记录</a></li>
+                        </ul>
+                    </div>
+                    <div class="box-item">
+                        <p class="title">我的报修</p>
+                        <ul class="box-item-content">
+                            <li><a href="baoxiuSq.aspx">报修申请</a></li>
+                            <li><a href="baoxiuCk.aspx">报修记录查看</a></li>
+                            <li><a href="ZxSq.aspx">装修申请</a></li>
+                            <li><a href="ZxCk.aspx">装修记录查看</a></li>
+                            <li><a href="GGweixiuSq.aspx">公共维修报修申请</a></li>
+                        </ul>
+                    </div>
+                    <div class="box-item">
+                        <p class="title">小区公告</p>
+                        <ul class="box-item-content">
+                            <li><a href="../Notice.aspx" target="_blank">公告查看</a> </li>
+                        </ul>
+                    </div>
+                </div>
+     <%--            <asp:ImageButton ID="ImageButtonT" runat="server" ImageUrl="~/img/随赠品.png" />--%>
+            </aside>
+            <article class="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </article>
+        </div>
+
+        <script>
+            $(function () {
+                $("#Image4").mouseenter(function () {
+                    $(".ys").slideDown(500);
+                })
+                $(".ys").mouseleave(function () {
+                    $(".ys").slideUp(500);
+                })
+            })
+        </script>
+    </form>
+</body>
+</html>

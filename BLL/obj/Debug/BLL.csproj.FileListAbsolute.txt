@@ -1,0 +1,395 @@
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\admin\Desktop\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\新建文件夹\新建文件夹\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1 - 副本 - 副本\BLL\obj\Debug\BLL.pdb
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\BLL.dll
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\BLL.pdb
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\DAL.dll
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\MODEL.dll
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\DAL.pdb
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\MODEL.pdb
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.dll
+G:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.pdb
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\BLL.dll
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\BLL.pdb
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\DAL.dll
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\MODEL.dll
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\DAL.pdb
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\bin\Debug\MODEL.pdb
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.dll
+F:\大二\A小区物业管理（后台）\代码\后台\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\有登录\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\liutian\Desktop\zj\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+D:\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+D:\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+D:\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\新建文件夹\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.dll
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\BLL.pdb
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.dll
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.dll
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\DAL.pdb
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.dll
+G:\大二\小区物业\项目\有登录 - 副本\项目\有登录 - 副本\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\整合\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\11950\Desktop\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\测试\周嘉仪\项目 (2)\项目\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\admin\Desktop\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\admin\Desktop\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\11950\Desktop\问题1\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\最终版本\问题1\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\admin\Desktop\新建文件夹 (3)\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\11\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\11\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\11\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\11\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\liutian\Desktop\1.1\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\小组\刘\1.2\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\1.3\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\11950\Desktop\1.3.0\1.3\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\liutian\Desktop\4.1\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\4.1\4.2\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\4.4.1\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\li\4.4.2\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\整合版本\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\4.5\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\4.6\4.6\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\11950\Desktop\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\4.6.2\4.6.2\4.6\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\最终版本\4.7\新建文件夹\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\测试\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理\测试\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\11950\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\86198\Desktop\紫荆物业管理\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.dll
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.pdb
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.pdb
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.dll
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\BLL.pdb
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.dll
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.dll
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\DAL.pdb
+F:\紫荆物业管理系统\WebApplication1\BLL\bin\Debug\MODEL.pdb
+F:\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.dll
+F:\紫荆物业管理系统\WebApplication1\BLL\obj\Debug\BLL.pdb
